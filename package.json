@@ -1,0 +1,25 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "\"a new shell for some reason\"",
+  "main": "bash.js",
+  "scripts": {
+    "test": "node bash.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dperrelly/node-shell.git"
+  },
+  "keywords": [
+    "\"redundancy\""
+  ],
+  "author": "Jon and Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dperrelly/node-shell/issues"
+  },
+  "homepage": "https://github.com/Dperrelly/node-shell#readme",
+  "dependencies": {
+    "request": "^2.60.0"
+  }
+}
